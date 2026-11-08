@@ -1,4 +1,4 @@
-# iOS_App_Configuration
+# iOS App Configuration (Ayaan)
 List of Apps:
 - 1Password
 - Adobe Acrobat Reader
