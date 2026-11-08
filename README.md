@@ -1,6 +1,6 @@
 # iOS App Configuration (Ayaan)
 List of Apps:
-- 1Password
+- [1Password] (https://github.com/matrosoli/iOS_App_Configuration/releases/tag/8.12.44)
 - Adobe Acrobat Reader
 - Adobe Lightroom
 - Airbnb
