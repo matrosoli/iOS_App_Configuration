@@ -1,202 +1,203 @@
 # iOS_App_Configuration
 List of Apps:
-1Password
-Adobe Acrobat Reader
-Adobe Lightroom
-Airbnb
-Amazon
-Amazon Prime Video
-Among Us!
-Apple Books
-Apple Maps
-Apple Music
-Apple Podcasts
-Apple TV
-Asana
-Audible
-Babbel
-BandLab
-Bank of America Mobile Banking
-Brawl Stars
-Bumble
-Calculator (Built-in)
-Calendar (Built-in)
-Calm
-Camera (Built-in)
-Candy Crush Saga
-Canva
-CapCut
-Capital One Mobile
-Cash App
-Chase Mobile
-ChatGPT
-Clash of Clans
-Clash Royale
-Claude by Anthropic
-Clock (Built-in)
-Coinbase
-Compass (Built-in)
-Contacts (Built-in)
-Credit Karma
-Crunchyroll
-Delta - Game Emulator
-Discord
-Disney+
-DoorDash
-Dropbox
-Duolingo
-eBay
-ESPN
-Etsy
-Evernote
-Expedia
-Facebook
-FaceTime (Built-in)
-Fidelity Investments
-Files (Built-in)
-Find My (Built-in)
-Firefox
-Fitbit
-Fitbod
-Fitness (Built-in)
-Flightradar24
-Freeform (Built-in)
-GarageBand
-Genshin Impact
-Gmail
-Goodnotes 6
-Goodreads
-Google
-Google Calendar
-Google Chrome
-Google Docs
-Google Drive
-Google Gemini
-Google Maps
-Google Meet
-Google Photos
-Google Sheets
-Google Translate
-Grammarly
-Grok
-Grubhub
-HBO Max
-Headspace
-Health (Built-in)
-Hinge
-Home (Built-in)
-Hulu
-iMovie
-Indeed Job Search
-Instagram
-Instacart
-Journal (Built-in)
-Kahoot!
-Keynote
-Khan Academy
-Kindle
-Libby
-Life360
-LinkedIn
-Lyft
-Magnifier (Built-in)
-Mail (Built-in)
-McDonald's
-Measure (Built-in)
-Messages (Built-in)
-Messenger
-Microsoft Authenticator
-Microsoft Copilot
-Microsoft Excel
-Microsoft OneDrive
-Microsoft OneNote
-Microsoft Outlook
-Microsoft PowerPoint
-Microsoft Teams
-Microsoft Word
-Minecraft
-MONOPOLY GO!
-MyFitnessPal
-Netflix
-Nike
-Nike Run Club
-NordVPN
-Notability
-Notes (Built-in)
-Notion
-Numbers
-Obsidian
-OpenTable
-Otter
-Pages
-Pandora
-Paramount+
-Passwords (Built-in)
-PayPal
-Peacock TV
-Peloton
-Perplexity
-Phone (Built-in)
-Photos (Built-in)
-PictureThis
-Pinterest
-Pocket Casts
-Pokémon GO
-Procreate Pocket
-Proton Mail
-Quizlet
-Reddit
-Reminders (Built-in)
-Robinhood
-Roblox
-Rocket Money
-Royal Match
-Safari (Built-in)
-Settings (Built-in)
-Shazam
-Shopify
-Shortcuts (Built-in)
-Signal
-Slack
-Snapchat
-SoundCloud
-Spotify
-Starbucks
-Stocks (Built-in)
-Strava
-Substack
-Subway Surfers
-Target
-Telegram Messenger
-Temu
-The New York Times
-Things 3
-Threads
-TickTick
-Ticketmaster
-TikTok
-Tinder
-Tips (Built-in)
-Todoist
-Translate (Built-in)
-Trello
-Tripadvisor
-Twitch
-Uber
-Uber Eats
-Venmo
-Vinted
-VLC media player
-Voice Memos (Built-in)
-VSCO
-Wallet (Built-in)
-Walmart
-Watch (Built-in)
-Waze
-Weather (Built-in)
-WhatsApp Messenger
-X
-Yelp
-YouTube
-YouTube Music
-Zoom Workplace
+- 1Password
+- Adobe Acrobat Reader
+- Adobe Lightroom
+- Airbnb
+- Amazon
+- Amazon Prime Video
+- Among Us!
+- Apple Books
+- Apple Maps
+- Apple Music
+- Apple Podcasts
+- Apple TV
+- Asana
+- Audible
+- Babbel
+- BandLab
+- Bank of America Mobile Banking
+- Brawl Stars
+- Bumble
+- Calculator (Built-in)
+- Calendar (Built-in)
+- Calm
+- Camera (Built-in)
+- Candy Crush Saga
+- Canva
+- CapCut
+- Capital One Mobile
+- Cash App
+- Chase Mobile
+- ChatGPT
+- Clash of Clans
+- Clash Royale
+- Claude by Anthropic
+- Clock (Built-in)
+- Coinbase
+- Compass (Built-in)
+- Contacts (Built-in)
+- Credit Karma
+- Crunchyroll
+- Delta - Game Emulator
+- Discord
+- Disney+
+- DoorDash
+- Dropbox
+- Duolingo
+- eBay
+- ESPN
+- Etsy
+- Evernote
+- Expedia
+- Facebook
+- FaceTime (Built-in)
+- Fidelity Investments
+- Files (Built-in)
+- Find My (Built-in)
+- Firefox
+- Fitbit
+- Fitbod
+- Fitness (Built-in)
+- Flightradar24
+- Freeform (Built-in)
+- GarageBand
+- Genshin Impact
+- Gmail
+- Goodnotes 6
+- Goodreads
+- Google
+- Google Calendar
+- Google Chrome
+- Google Docs
+- Google Drive
+- Google Gemini
+- Google Maps
+- Google Meet
+- Google Photos
+- Google Sheets
+- Google Translate
+- Grammarly
+- Grok
+- Grubhub
+- HBO Max
+- Headspace
+- Health (Built-in)
+- Hinge
+- Home (Built-in)
+- Hulu
+- iMovie
+- Indeed Job Search
+- Instagram
+- Instacart
+- Journal (Built-in)
+- Kahoot!
+- Keynote
+- Khan Academy
+- Kindle
+- Libby
+- Life360
+- LinkedIn
+- Lyft
+- Magnifier (Built-in)
+- Mail (Built-in)
+- McDonald's
+- Measure (Built-in)
+- Messages (Built-in)
+- Messenger
+- Microsoft Authenticator
+- Microsoft Copilot
+- Microsoft Excel
+- Microsoft OneDrive
+- Microsoft OneNote
+- Microsoft Outlook
+- Microsoft PowerPoint
+- Microsoft Teams
+- Microsoft Word
+- Minecraft
+- MONOPOLY GO!
+- MyFitnessPal
+- Netflix
+- Nike
+- Nike Run Club
+- NordVPN
+- Notability
+- Notes (Built-in)
+- Notion
+- Numbers
+- Obsidian
+- OpenTable
+- Otter
+- Pages
+- Pandora
+- Paramount+
+- Passwords (Built-in)
+- PayPal
+- Peacock TV
+- Peloton
+- Perplexity
+- Phone (Built-in)
+- Photos (Built-in)
+- PictureThis
+- Pinterest
+- Pocket Casts
+- Pokémon GO
+- Procreate Pocket
+- Proton Mail
+- Quizlet
+- Reddit
+- Reminders (Built-in)
+- Robinhood
+- Roblox
+- Rocket Money
+- Royal Match
+- Safari (Built-in)
+- Settings (Built-in)
+- Shazam
+- Shopify
+- Shortcuts (Built-in)
+- Signal
+- Slack
+- Snapchat
+- SoundCloud
+- Spotify
+- Starbucks
+- Stocks (Built-in)
+- Strava
+- Substack
+- Subway Surfers
+- Target
+- Telegram Messenger
+- Temu
+- The New York Times
+- Things 3
+- Threads
+- TickTick
+- Ticketmaster
+- TikTok
+- Tinder
+- Tips (Built-in)
+- Todoist
+- Translate (Built-in)
+- Trello
+- Tripadvisor
+- Twitch
+- Uber
+- Uber Eats
+- Venmo
+- Vinted
+- VLC media player
+- Voice Memos (Built-in)
+- VSCO
+- Wallet (Built-in)
+- Walmart
+- Watch (Built-in)
+- Waze
+- Weather (Built-in)
+- WhatsApp Messenger
+- X
+- Yelp
+- YouTube
+- YouTube Music
+- Zoom Workplace
+
